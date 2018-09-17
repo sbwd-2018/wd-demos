@@ -18,10 +18,6 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 p {
-  text-indent: 2em;
-}
-h1 + p,
-h2 + p,
-h3 + p {
-  text-indent: 0;
+  padding-bottom: 1.222em; /* 22px / 18x = 1.222... */
+  padding-bottom: 0.666em; /* 11px / 18px = 0.666...
 }

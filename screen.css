@@ -23,3 +23,10 @@ p {
   padding-bottom: 1.222em; /* 22px / 18x = 1.222... */
   padding-bottom: 0.666em; /* 11px / 18px = 0.666... */
 }
+
+/* Responsive Image Styles */
+
+img {
+  display: block;
+  max-width: 100%;
+}

@@ -66,3 +66,7 @@ img {
   }
 }
 
+/* Temporarily Hide Navigation */
+nav {
+  display: none;
+}

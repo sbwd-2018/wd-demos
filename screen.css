@@ -10,9 +10,9 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 
 html {
   font-size: 1.125em; /* 18px / 16px = 1.125 */
-  line-height: 1.222em; /* 22px / 18x = 1.222... */
-  padding-left: 1.222em;
-  padding-right: 1.222em;
+  line-height: 1.2222222222em; /* 22px / 18x = 1.222... */
+  padding-left: 1.2222222222em;
+  padding-right: 1.2222222222em;
 }
 
 h1,h2,h3,h4,h5,h6 {
@@ -20,8 +20,8 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 p {
-  padding-bottom: 1.222em; /* 22px / 18x = 1.222... */
-  padding-bottom: 0.666em; /* 11px / 18px = 0.666... */
+  padding-bottom: 0.6111111111em; /* 11px / 18px = 0.666... */
+  padding-bottom: 1.2222222222em;
 }
 
 /* Responsive Image Styles */

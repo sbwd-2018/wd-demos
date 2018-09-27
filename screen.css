@@ -8,6 +8,10 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 
 /* Begin site styles below */
 
+/*
+  Base Styles (element selectors)
+*/
+
 html {
   font-size: 1.125em; /* 18px / 16px = 1.125 */
   line-height: 1.2222222222em; /* 22px / 18x = 1.222... */
@@ -30,3 +34,18 @@ img {
   display: block;
   max-width: 100%;
 }
+
+/*
+  Layout Styles (usually ID selectors)
+*/
+
+
+/*
+  Module Styles (usually class selectors)
+*/
+
+
+/*
+  State Styles (media queries and JavaScript-dependent stuff)
+*/
+

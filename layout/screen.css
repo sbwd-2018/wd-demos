@@ -10,17 +10,12 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 
 ul {
   background-color: blue;
+  width: 50%;
+  position: absolute;
 }
-li {
-  /* Set border-box sizing */
-  box-sizing: border-box;
-  padding: 20px;
-  background-color: green;
-  width: 20%;
-  float: left;
-}
-
 p {
   background-color: purple;
   color: white;
+  margin-left: 55%;
+
 }

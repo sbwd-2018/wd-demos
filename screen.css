@@ -47,11 +47,23 @@ img {
   Layout Styles (usually ID selectors)
 */
 
+nav ul li {
+  text-align: center;
+  padding-bottom: 11px;
+}
 
 /*
   Module Styles (usually class selectors)
 */
 
+nav a {
+  background-color: #006;
+  border-radius: 5.5px;
+  color: #EEE;
+  display: block;
+  padding: 11px 0;
+  text-decoration: none;
+}
 
 /*
   State Styles (media queries and JavaScript-dependent stuff)

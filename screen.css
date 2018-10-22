@@ -69,6 +69,17 @@ nav a {
   State Styles (media queries and JavaScript-dependent stuff)
 */
 
+@media screen and (min-width: 420px) {
+  nav ul {
+    display: flex;
+    margin: 0 -10px;
+  }
+  nav ul li {
+    flex-grow: 1;
+    margin: 0 10px;
+  }
+}
+
 @media screen and (min-width: 620px) {
   h1 {
     /* Too Big for Mobile Scale: */
